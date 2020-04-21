@@ -1,0 +1,15 @@
+name: Website Title
+title: Website Title
+author: Author Name
+description: My personal web site.
+url: https://account.github.io
+timezone: Region/YourCity
+permalink: /blog/:year/:month/:day/:title:output_ext
+highlighter: rouge
+email: your@email
+github: account
+markdown: kramdown
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-seo-tag
